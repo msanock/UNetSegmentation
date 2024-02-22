@@ -15,3 +15,13 @@ I have compared three different models:
 
 
 
+
+### U-Net 
+
+This model turned out to be a winner in this comparison scorring decent 86.85% accuracy on test dataset.
+![Unknown-4](https://github.com/msanock/UNetSegmentation/assets/89803782/dbb393f2-0a6b-4865-893b-1efdee804566)
+
+some examples of model and human segmantation:
+![Unknown-2](https://github.com/msanock/UNetSegmentation/assets/89803782/f80088bc-7485-4035-93be-23e891cbbf08)
+
+
