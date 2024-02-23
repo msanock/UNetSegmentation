@@ -19,4 +19,5 @@ rm $path_to_raw_dataset/gtFine_trainvaltest.zip
 
 echo "Cityscapes dataset has been downloaded and extracted to $path_to_raw_dataset"
 
-
+mv $path_to_raw_dataset/gtFine $path_to_raw_dataset/labels
+mv $path_to_raw_dataset/leftImg8bit $path_to_raw_dataset/images
